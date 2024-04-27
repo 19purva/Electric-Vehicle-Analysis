@@ -34,3 +34,6 @@ Description: Illustrate the proportion of electric vehicles that are eligible fo
 Visualization: Tree map
 Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
+
+![electric vehicle analysis](https://github.com/19purva/Electric-Vehicle-Analysis/assets/135506440/0ee8a7c3-96f9-4338-9264-d9a82365d74e)
+
