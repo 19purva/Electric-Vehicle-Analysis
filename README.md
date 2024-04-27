@@ -1,7 +1,7 @@
 # Electric Vehicle Analysis
 # KPI’S Requirement
 1.Total Vehicles:
-Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
+Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.\n
 2. Average Electric Range:
 Determine the average electric range of the electric vehicles in the dataset to gauge the technological advancements and efficiency of the EVs.
 3. Total BEV Vehicles and % of Total BEV Vehicles:
